@@ -37,7 +37,7 @@ In this section, please report:
 3. Write down your system of 10 linear equations.
 	z = np.random.random(100) #create 100 random numbers
 	A = np.reshape(z,(10,10)) #100 random numbers into 10x10 matrix form
-   	b = np.random.random(10)  #create 10 random numbers
+   	b = np.random.random(10)  #create 10 numbers
     b = np.reshape(b,(10,1))  #10 numbers into 10x1 matrix form
     x = np.linalg.solve(A,b)  #solve Ax=b
 
