@@ -42,7 +42,7 @@ In this section, please report:
     x = np.linalg.solve(A,b)  #solve Ax=b
 
 	answer:
-
+ 
 	[[ 0.00199653]
 	 [ 0.56841984]
 	 [ 0.64481871]
@@ -54,8 +54,10 @@ In this section, please report:
 	 [-0.66197167]
 	 [-0.87714676]]
 
+solutions:\x_1=0.00199653\x_2=0.56841984\x_3=0.64481871\x_4=-0.13045821\x_5=1.29572738\x_6=1.7429518\x_7=-0.41976513\x_8=-0.21691916\x_9=-0.66197167\x_10=-0.87714676
+
 
 
 -----------------------------------
 
-<sup>last modified: 27 January 2016</sup>
+<sup>last modified: 28 January 2016</sup>
